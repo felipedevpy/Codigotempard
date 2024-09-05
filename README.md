@@ -45,5 +45,7 @@ Ao ligar o sistema, a interface será exibida no display. Toque na tela para atu
 Observações
 As leituras de temperatura são atualizadas sempre que um toque válido é detectado na área de exibição.
 Certifique-se de calibrar corretamente os valores de pressão e coordenadas do touchscreen para garantir a detecção precisa dos toques.
+
+
 Licença:
 Thermocouples_project © 2024 por Felipe Ramos Nogueira está licenciado sob Creative Commons Atribuição-NãoComercial 4.0 Internacional
